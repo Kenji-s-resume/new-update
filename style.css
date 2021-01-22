@@ -425,6 +425,7 @@ rightslice{
     --rotationindex1: 0%;
     display: block;
     position: absolute;
+    top:0vh;
     height: 90vh;
     width: 100%;
     color: rgb(50, 50, 50);
